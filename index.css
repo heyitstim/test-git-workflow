@@ -2,4 +2,6 @@ h1 {
     font-weight: bold;
 }
 
-h2 {}
+h2 {
+    font-weight: 500;
+}
